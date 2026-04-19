@@ -27,8 +27,11 @@ jobs:
 
     steps:
       # 1. 读取你的贡献数据并生成 SVG / GIF
+      #    使用主入口 Platane/snk@v3（支持 SVG + GIF）
+      #    注意：不要用 Platane/snk/svg-only@v3，该子路径的 dist 漏打包了 canvas 原生模块
+      #    （参见 https://github.com/Platane/snk/issues/33）
       - name: Generate github-contribution-grid-snake files
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
