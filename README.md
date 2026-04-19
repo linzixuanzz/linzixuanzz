@@ -91,7 +91,7 @@ dream:       把每一个不起眼的小工具，做成能被用的那种"小确
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=linzixuanzz&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophy" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=linzixuanzz&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=A78BFA&line=F472B6&point=FFC75F&area=true&area_color=A78BFA&custom_title=%F0%9F%8C%99%20%E4%B8%80%E5%B9%B4%E7%9A%84%20coding%20%E8%8A%82%E5%A5%8F%20%C2%B7%20Contribution%20Graph" alt="activity-graph" />
 </div>
 
 ---
