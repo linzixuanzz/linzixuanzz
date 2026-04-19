@@ -40,10 +40,6 @@ learning:    🚀 云原生 · 分布式任务调度 · Flutter 跨端
 dream:       把每一个不起眼的小工具，做成能被用的那种"小确幸"
 ```
 
-<div align="center">
-  <img src="https://github.com/linzixuanzz/linzixuanzz/blob/output/github-contribution-grid-snake.svg" alt="snake" onerror="this.style.display='none'" />
-</div>
-
 ---
 
 ## 🛠️ 技术栈 · Tech Stack
@@ -94,6 +90,25 @@ dream:       把每一个不起眼的小工具，做成能被用的那种"小确
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=linzixuanzz&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=A78BFA&line=F472B6&point=FFC75F&area=true&area_color=A78BFA&custom_title=%F0%9F%8C%99%20%E4%B8%80%E5%B9%B4%E7%9A%84%20coding%20%E8%8A%82%E5%A5%8F%20%C2%B7%20Contribution%20Graph" alt="activity-graph" />
 </div>
 
+<div align="center">
+  <img height="195" src="https://github-readme-stats.vercel.app/api/wakatime?username=linzixuanzz&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&title_color=A78BFA&text_color=c0caf5&bg_color=1a1b27&custom_title=%E2%8F%B1%EF%B8%8F%20%E8%BF%91%E6%9C%9F%E7%BC%96%E7%A8%8B%E8%B6%B3%E8%BF%B9%20%C2%B7%20Weekly%20Coding%20Activity" alt="wakatime" />
+</div>
+
+<details align="center">
+  <summary>💡 <b>WakaTime 卡片没出来？点这里启用（1 分钟搞定）</b></summary>
+
+  <br />
+
+  上面这张**编程足迹**卡片需要先把 **WakaTime** 接入你的编辑器，才能显示真实的编码时长。
+
+  1. 去 [wakatime.com](https://wakatime.com/) 用 GitHub 一键注册
+  2. 在你的主力编辑器装 WakaTime 插件：**VS Code / JetBrains / Sublime / Vim** 都支持
+  3. 登录后进入 **Account Settings**，勾选 `Display coding activity publicly`
+  4. 把上面卡片 URL 里的 `username=linzixuanzz` 换成你的 WakaTime 用户名（默认一致就不用改）
+  5. 等 24 小时，卡片会自动汇总你每周各语言的编码时长 —— 像心跳一样忠实记录你的代码节奏 🌙
+
+</details>
+
 ---
 
 ## 🌱 当前在做 · Pinned Work
@@ -107,8 +122,25 @@ dream:       把每一个不起眼的小工具，做成能被用的那种"小确
   </a>
 </div>
 
-> 🪷 **呆呆面板 (daidai-panel)** —— 轻量级定时任务管理面板，灵感源自青龙面板，但更克制、更优雅。
-> 📱 **呆呆面板 App 版 (Dumb-Panel-APP)** —— 把服务端能力装进口袋，随时随地管理你的任务流。
+### 🪷 呆呆面板 · [daidai-panel](https://github.com/linzixuanzz/daidai-panel)
+
+一款**轻量级定时任务管理面板**。灵感源自青龙面板，但剥离了臃肿的功能堆叠，只保留"调度"这件事本身的诗意——让每一次 Cron 的触发、每一行脚本的运行，都变得可被温柔地看见。
+
+- 🎨 **设计哲学**：克制、优雅、开箱即用。每一个按钮都有它应当在的位置，每一次任务执行都会被认真地记录
+- ⚙️ **核心能力**：Cron 可视化配置 · 多环境变量隔离 · 实时日志追踪 · 失败自动重试 · Webhook 通知回调
+- 🧱 **技术栈**：`Go` + `Gin` 驱动后端，`Vue 3` 构筑前端，`SQLite / MySQL` 双存储适配，**单二进制文件**即可一键部署
+- 🎯 **面向人群**：想在自家小服务器上"跑点小东西"的个人开发者、初次接触定时任务的新手、对青龙面板感到疲倦但又离不开它的老手
+- 🌱 **进度**：`v0.x` 持续迭代中，每一个 Issue 和 PR 都会被认真对待
+
+### 📱 呆呆面板 App 版 · [Dumb-Panel-APP](https://github.com/linzixuanzz/Dumb-Panel-APP)
+
+把服务端的调度能力装进口袋，让**任务管理从浏览器走进日常的屏幕**。这不是一个冷冰冰的远程终端，而是 daidai-panel 的原生移动端伴侣。
+
+- 🪄 **产品定位**：daidai-panel 的移动端延伸，专为"碎片化运维"而生——不是为了替代电脑，而是为了让手机也能优雅地参与
+- ✨ **主要特性**：扫码绑定面板 · 任务一键触发 · 执行状态实时推送 · 深色模式跟随系统 · 手势流畅的列表交互
+- 🧱 **技术栈**：`Flutter` + `Dart`，一次编码同时覆盖 **Android / iOS**，用最少的代价拿到最好的跨端体验
+- 🌍 **使用场景**：地铁上收到任务失败告警 → 轻点重跑；临时想加一条定时任务 → 不用掏电脑；服务器异常 → 口袋里的面板第一时间知道
+- 🌸 **愿景**：让"定时任务"这件事，从"需要坐在电脑前"变成"举起手机就能搞定"的小确幸
 
 ---
 
