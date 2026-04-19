@@ -77,37 +77,29 @@ dream:       把每一个不起眼的小工具，做成能被用的那种"小确
 
 ## 📊 数据可视化 · GitHub Stats
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=linzixuanzz&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&title_color=A78BFA&icon_color=F472B6&text_color=c0caf5&bg_color=1a1b27" alt="stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linzixuanzz&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&title_color=A78BFA&text_color=c0caf5&bg_color=1a1b27" alt="langs" />
-</div>
+<!-- 1. 呆呆呆呆的 GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=linzixuanzz&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&title_color=A78BFA&icon_color=F472B6&text_color=c0caf5&bg_color=1a1b27" alt="stats" />
+</p>
 
-<div align="center">
+<!-- 2. Current Streak · 连续打卡 -->
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=linzixuanzz&theme=tokyonight&hide_border=true&background=1a1b27&stroke=1a1b27&ring=A78BFA&fire=F472B6&currStreakLabel=A78BFA&sideLabels=c0caf5&dates=c0caf5" alt="streak" />
-</div>
+</p>
 
-<div align="center">
+<!-- 3. 一年的 coding 节奏 · Contribution Graph -->
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=linzixuanzz&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=A78BFA&line=F472B6&point=FFC75F&area=true&area_color=A78BFA&custom_title=%F0%9F%8C%99%20%E4%B8%80%E5%B9%B4%E7%9A%84%20coding%20%E8%8A%82%E5%A5%8F%20%C2%B7%20Contribution%20Graph" alt="activity-graph" />
-</div>
+</p>
 
+<!-- ===================== 贡献蛇动画（亮/暗主题自适应） ===================== -->
 <div align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api/wakatime?username=linzixuanzz&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&title_color=A78BFA&text_color=c0caf5&bg_color=1a1b27&custom_title=%E2%8F%B1%EF%B8%8F%20%E8%BF%91%E6%9C%9F%E7%BC%96%E7%A8%8B%E8%B6%B3%E8%BF%B9%20%C2%B7%20Weekly%20Coding%20Activity" alt="wakatime" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/linzixuanzz/linzixuanzz/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/linzixuanzz/linzixuanzz/output/github-contribution-grid-snake.svg" />
+    <img alt="一条在贡献格子里游走的小蛇 🐍" src="https://raw.githubusercontent.com/linzixuanzz/linzixuanzz/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
-
-<details align="center">
-  <summary>💡 <b>WakaTime 卡片没出来？点这里启用（1 分钟搞定）</b></summary>
-
-  <br />
-
-  上面这张**编程足迹**卡片需要先把 **WakaTime** 接入你的编辑器，才能显示真实的编码时长。
-
-  1. 去 [wakatime.com](https://wakatime.com/) 用 GitHub 一键注册
-  2. 在你的主力编辑器装 WakaTime 插件：**VS Code / JetBrains / Sublime / Vim** 都支持
-  3. 登录后进入 **Account Settings**，勾选 `Display coding activity publicly`
-  4. 把上面卡片 URL 里的 `username=linzixuanzz` 换成你的 WakaTime 用户名（默认一致就不用改）
-  5. 等 24 小时，卡片会自动汇总你每周各语言的编码时长 —— 像心跳一样忠实记录你的代码节奏 🌙
-
-</details>
 
 ---
 
