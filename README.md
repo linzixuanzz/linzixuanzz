@@ -105,16 +105,6 @@ dream:       把每一个不起眼的小工具，做成能被用的那种"小确
 
 ## 🌱 当前在做 · Pinned Work
 
-<div align="center">
-  <a href="https://github.com/linzixuanzz/daidai-panel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=linzixuanzz&repo=daidai-panel&hide_border=true&theme=tokyonight&title_color=A78BFA&icon_color=F472B6&text_color=c0caf5&bg_color=1a1b27" alt="daidai-panel" />
-  </a>
-  <a href="https://github.com/linzixuanzz/Dumb-Panel-APP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=linzixuanzz&repo=Dumb-Panel-APP&hide_border=true&theme=tokyonight&title_color=A78BFA&icon_color=F472B6&text_color=c0caf5&bg_color=1a1b27" alt="Dumb-Panel-APP" />
-  </a>
-</div>
-
-<br />
 
 > 🪷 **[daidai-panel](https://github.com/linzixuanzz/daidai-panel)** — 轻量级定时任务管理面板，像青龙一样调度，却更克制、更优雅。`Go` + `Vue 3` · 单二进制部署。
 >
